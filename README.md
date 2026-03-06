@@ -7,6 +7,6 @@ You can manually set the file paths in the files themselves. Otherwise, follow t
 
 In your project folder, make a new folder called scripts. Inside that folder create another folder called whatever you'd like. Drag the files from this repo into there.
 
-Everytime you add a package, run refresh.bat and use "reload developer window" in VSC.
+Everytime you add a package, run refresh.bat and use "reload developer window" in visual studio code.
 
 This also renames the _index folder inside Packages to index, due to some issue occurring with darklua.
