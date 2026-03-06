@@ -1,5 +1,6 @@
 # wally-patch
 A vibecoded JS script to wrap all GetService, service, etc calls with cloneref, replace all script and script.Parent references with their file paths, fix typing issues and react issues when trying to use Wally while bundling with darklua.
+
 When I have more time this will be rewritten with Lune and without the help of sir Claude.
 
 ## How to use
